@@ -17,6 +17,7 @@ A simple e-commerce application which includes a wallet that a user can top-up b
 <img src="https://user-images.githubusercontent.com/74553566/149343323-765d2635-0fc3-4654-b670-6784af701b36.png" width="200" height="400" />
 
 (4) Shopping History Screen
+
 <img src="https://user-images.githubusercontent.com/74553566/149343985-7d6f38d4-ac4b-44ae-89b7-b1ad943c58eb.png" width="200" height="400" />
 
 
